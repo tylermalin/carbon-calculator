@@ -1,0 +1,13 @@
+carbon-calculator/
+├── public/
+│   ├── css/
+│   │   └── styles.css
+│   ├── js/
+│   │   └── script.js
+│   └── index.html
+├── server/
+│   ├── routes/
+│   │   └── api.js
+│   └── server.js
+├── package.json
+└── README.md
